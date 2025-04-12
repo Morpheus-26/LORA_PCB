@@ -2,8 +2,8 @@
 This repository contains the PCB design files. The design was created using **EasyEDA** and includes the schematic, PCB layout, and all necessary files for fabrication and assembly.
 
 ## 📁 Files Included
-- **Schematic Design** (.json)
-- **PCB Layout** (.json)
+- **Schematic Design** 
+- **PCB Layout** 
 - **Gerber Files** (for manufacturing)
 - **Screenshot of the Schematic Diagram and PCB design**
 
