@@ -18,4 +18,11 @@ This repository contains the PCB design files. The design was created using **Ea
 - **Net Completion**: 100%  
 - **DRC Errors**: None  
 
+# Schematic_Diagram
+![Schematic1](https://github.com/user-attachments/assets/4d10e876-4e14-4d2f-bb72-2fa78339e4ee)
+
+# PCB_Layout
+![PCB_Layout](https://github.com/user-attachments/assets/6f97f90a-ad3e-4ed9-9b3e-26b7f1639612)
+
+
 
