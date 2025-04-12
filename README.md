@@ -8,7 +8,7 @@ This repository contains the PCB design files. The design was created using **Ea
 - **Screenshot of the Schematic Diagram and PCB design**
 
 ## 🛠️ Tools Used
-- **EasyEDA Online Editor**
+- **EasyEDA**
 - Auto-router with manual optimizations
 - Design Rule Check (DRC) verified
 
