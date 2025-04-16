@@ -1,4 +1,5 @@
 # LORA_PCB
+The given circuit is supposed to be used as a sensor node. It contains LoRa module, XIAO Esp32 C3 module, DHT11 (temperature & humidity), LDR (Light dependant resistor) and few other basic components. This circuit is used to send Temperature, Humidity and Light intensity values wirelesly over LoRa to Lora Receiver.
 This repository contains the PCB design files. The design was created using **EasyEDA** and includes the schematic, PCB layout, and all necessary files for fabrication and assembly.
 
 ## 📁 Files Included
